@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD
+  - course: PhD in Mathematics and Applied Mathematics 
     institution: Nanyang Techonological University, Singapore
     year: 2018
-  - course: BSc
+  - course: BSc in Pure Mathematics 
     institution: Xiamen University, China
     year: 2008
 
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: yanhong.xu1@ucalgary.ca
+  link: mailto:yanhong.xu1@ucalgary.ca
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
