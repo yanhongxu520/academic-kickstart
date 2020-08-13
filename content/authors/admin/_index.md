@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Yanhong Xu is a PostDoc Associate in University of Calgary (UoC). She is currently working on hash-based signatures. Prior to joining UoC, She was a PhD student at Nanyang Technological University, Singapore. She was working on Lattice-based group signatures. Her research interests inlcude signatures and privacy-enhancing protocols.
+Yanhong Xu is currently a PostDoc Associate in University of Calgary (UoC). She is working on hash-based signatures. Prior to joining UoC, She was a PhD student at Nanyang Technological University, Singapore. She was working on Lattice-based group signatures. Her research interests inlcude signatures and privacy-enhancing protocols.
