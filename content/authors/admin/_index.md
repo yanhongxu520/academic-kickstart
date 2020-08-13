@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yanhong XuXUUUUU
+title: Yanhong Xu
 
 # Username (this should match the folder name)
 authors:
