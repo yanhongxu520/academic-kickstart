@@ -32,7 +32,7 @@ education:
     year: 2018
   - course: BSc in Pure Mathematics 
     institution: Xiamen University, China
-    year: 2008
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
