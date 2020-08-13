@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PostDoc 
+role: PostDoc Associate
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD
+  - course: PhD in Mathematics and Applied Mathematics 
     institution: Nanyang Techonological University, Singapore
     year: 2018
-  - course: BSc
+  - course: BSc in Pure Mathematics 
     institution: Xiamen University, China
-    year: 2008
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: yanhong.xu1@ucalgary.ca
+  link: mailto:yanhong.xu1@ucalgary.ca
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Yanhong Xu is a PostDoc Associate in University of Calgary (UoC). She is currently working on hash-based signatures. Prior to joining UoC, She was a PhD student at Nanyang Technological University, Singapore. She was working on Lattice-based group signatures. Her research interests inlcude signatures and privacy-enhancing protocols.
+Yanhong Xu is currently a PostDoc Associate in University of Calgary (UoC). She is working on hash-based signatures. Prior to joining UoC, She was a PhD student at Nanyang Technological University, Singapore. She was working on Lattice-based group signatures. Her research interests inlcude signatures and privacy-enhancing protocols.
