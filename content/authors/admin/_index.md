@@ -42,7 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:yanhong.xu1@ucalgary.ca"
-s
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
