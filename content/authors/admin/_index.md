@@ -15,7 +15,7 @@ role: PostDoc Associate
 # Organizations/Affiliations
 organizations:
 - name: University of Calgary
-  url: https://www.ucalgary.ca
+  url: "https://www.ucalgary.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include signatures and privacy-enhancing protocols. 
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:yanhong.xu1@ucalgary.ca
+  link: "mailto:yanhong.xu1@ucalgary.ca"
 s
 # - icon: twitter
 #  icon_pack: fab
@@ -51,7 +51,7 @@ s
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/yanhongxu520
+  link: "https://github.com/yanhongxu520"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
