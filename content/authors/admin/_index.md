@@ -22,7 +22,8 @@ bio: My research interests include signatures and privacy-enhancing protocols.
 
 interests:
 - Lattice-Based Cryptography
-- Hash-Based Signatures
+- Hash-Based Cryptography
+- Privacy-Preserving Primitives
 
 
 education:
