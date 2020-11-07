@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include signatures and privacy-enhancing protocols. 
 
-research:
+interests:
 - Lattice-Based Cryptography
 - Hash-Based Signatures
 
