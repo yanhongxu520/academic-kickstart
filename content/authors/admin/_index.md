@@ -53,9 +53,9 @@ social:
   link: "https://github.com/yanhongxu520"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/Proposal.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Yanhong Xu is currently a PostDoc Associate in University of Calgary (UoC). She is working on hash-based signatures. Prior to joining UoC, She was a PhD student at Nanyang Technological University, Singapore. She was working on Lattice-based group signatures. Her research interests inlcude signatures and privacy-enhancing protocols.
+I am currently a PostDoc Associate at deparement of Computer Science University of Calgary, Canada. I earned my PhD degree at Nanyang Technological University, Singapore. My research interests inlcude cryptography and information security. 
