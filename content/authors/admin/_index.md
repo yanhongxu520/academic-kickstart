@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ucalgary.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include signatures and privacy-enhancing protocols. 
+bio: I am a PostDoc Associate at deparement of Computer Science from University of Calgary.
 
 interests:
 - Lattice-Based Cryptography
